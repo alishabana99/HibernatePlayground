@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="/mnt/f177c0ea-a6e2-4bd6-bc06-8b2f300a4cd9/IDEs|PROJECTS/IntelliJava/Projects/HibernatePlayground/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="/mnt/f177c0ea-a6e2-4bd6-bc06-8b2f300a4cd9/IDEs|PROJECTS/IntelliJava/Projects/HibernatePlayground/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
